@@ -3,7 +3,6 @@
 Block chain based voting system using ring structure
 # BlockVotes
 **An e-voting system based on blockchain using ring signature**
-# The project is going so I will upload the source later 
 
 # Topic 
 
@@ -39,31 +38,3 @@ OP_RETURN is a script opcode used to mark a transaction output as invalid. Since
 
 ![](about/stack.png)
 
-
-```
-
-## Screenshot
-
-![](about/1.png)
-
-![](about/2.png)
-
-![](about/3.png)
-
-![](about/4.png)
-
-![](about/5.png)
-
-![](about/6.png)
-
-![](about/7.png)
-
-![](about/8.png)
-
-![](about/10.png)
-
-![](about/11.png)
-
-![](about/14.png)
-
-![](about/15.png)
