@@ -34,7 +34,5 @@ OP_RETURN is a script opcode used to mark a transaction output as invalid. Since
 2. a ring signature: σ = (m, Si, P1,P2,……,Pn)
 3. Anyone can check the validity of a ring signature given σ, *m*, and the public keys involved, *P*1, ..., *Pn*
 
-## Tools & Framework
 
-![](about/stack.png)
 
