@@ -1,5 +1,5 @@
 # Blockcahin-based-voting-System
-# The project is going so I will upload the source later now I just share the idea and concept behind the project
+**The project is going so I will upload the source later now I just share the idea and concept behind the project**
 Block chain based voting system using ring structure
 # BlockVotes
 **An e-voting system based on blockchain using ring signature**
